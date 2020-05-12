@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vibhav Mani tripathi<name> -- <role> -- <twitter>
 
 # THANKS
 
